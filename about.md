@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+title: เกี่ยวกับฉัน
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+รหัสนักศึกษา : 	  	57122420246
+  	  	 
+ชื่อ - สกุล : 	  	นายนำโชค จุดาสิงห์
+  	  	 
+หมู่เรียน : 	  	571224202 (วท.บ.57.11.2)
+  	  	 
+ประเภทนักศึกษา : 	  	ปกติ
+  	  	 
+ระดับการศึกษา : 	  	ปริญญาตรี 4 ปี
+  	  	 
+สาขาวิชา : 	  	วิทยาการคอมพิวเตอร์
+  	  	 
+วุฒิการศึกษา : 	  	วิทยาศาสตรบัณฑิต
+  	  	 
+คณะ : 	  	วิทยาการคอมพิวเตอร์
+  	  	 
+อาจารย์ที่ปรึกษา : 	  	อาจารย์สุริยนต์ สาระมูล
+  	  	 
+E-Mail นักศึกษา : 	  	[namchok.cCS57@ubru.ac.th](mailto:namchok.cCS57@ubru.ac.th) ,[oat_red-za@hotmail.co.th](mailto:oat_red-za@hotmail.co.th)
