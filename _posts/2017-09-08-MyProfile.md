@@ -1,7 +1,8 @@
 ---
 layout: page
 title: ประวัติส่วนตัว
-permalink: /about/
+date: 2017-09-08 11:10 +0700
+categories: My Blog
 ---
 
 ![Picture](https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/20881818_1394386833990468_5585945619296630188_n.jpg?oh=436cd07ff511c000588cc76b775fb5c5&oe=5A1C9492)
