@@ -6,7 +6,7 @@
 name: Namchok Chudasing
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: ยุ่งไรด้วย
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/20881818_1394386833990468_5585945619296630188_n.jpg?oh=436cd07ff511c000588cc76b775fb5c5&oe=5A1C9492
@@ -18,15 +18,15 @@ avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/20881818_13943868339904
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: oat_red-za@hotmail.co.th
+  facebook: https://www.facebook.com/oat.bankai
   flickr:
-  github: barryclark/jekyll-now
+  github: NamchokC/NamchokC
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
