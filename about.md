@@ -24,4 +24,4 @@ permalink: /about/
   	  	 
 อาจารย์ที่ปรึกษา : 	  	อาจารย์สุริยนต์ สาระมูล
   	  	 
-E-Mail นักศึกษา : 	  	![namchok.ccs57@ubru.ac.th](mailto:namchok.ccs57@ubru.ac.th) ,![oat_red-za@hotmail.co.th](mailto:oat_red-za@hotmail.co.th)
+E-Mail นักศึกษา : 	  	[namchok.ccs57@ubru.ac.th](mailto:namchok.ccs57@ubru.ac.th) ,[oat_red-za@hotmail.co.th](mailto:oat_red-za@hotmail.co.th)
