@@ -4,6 +4,8 @@ title: เกี่ยวกับฉัน
 permalink: /about/
 ---
 
+![Picture](https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/20881818_1394386833990468_5585945619296630188_n.jpg?oh=436cd07ff511c000588cc76b775fb5c5&oe=5A1C9492)
+
 รหัสนักศึกษา : 	  	57122420246
   	  	 
 ชื่อ - สกุล : 	  	นายนำโชค จุดาสิงห์
@@ -22,4 +24,4 @@ permalink: /about/
   	  	 
 อาจารย์ที่ปรึกษา : 	  	อาจารย์สุริยนต์ สาระมูล
   	  	 
-E-Mail นักศึกษา : 	  	[namchok.cCS57@ubru.ac.th](mailto:namchok.cCS57@ubru.ac.th) ,[oat_red-za@hotmail.co.th](mailto:oat_red-za@hotmail.co.th)
+E-Mail นักศึกษา : 	  	![namchok.ccs57@ubru.ac.th](mailto:namchok.ccs57@ubru.ac.th) ,![oat_red-za@hotmail.co.th](mailto:oat_red-za@hotmail.co.th)
